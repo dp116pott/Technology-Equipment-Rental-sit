@@ -12,3 +12,7 @@ This project can be split into 2 main core operations:
     when it is in stock and then chooses an end date from when none are currently available
    this would create a direct clash. This forced me to curate the program to keep track of each individual item's availability
    to better edit the system block on date selection for when no items are available.
+
+Finally, this project is publicly viewable and was implemented at: https://www.technologyequipmentrental.com/
+Though the front end contains changes to the UI as I was informed by the client would occur, the core 
+functionality remains the same and the underlying backend is fixed.
